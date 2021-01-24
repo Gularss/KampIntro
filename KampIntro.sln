@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{C3D83560-B492-44AF-A98C-5E25AF368E3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{9F268E25-CF9B-4370-B3FD-614655DEC124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{9F268E25-CF9B-4370-B3FD-614655DEC124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3", "Oop3\Oop3.csproj", "{39DAF876-B44F-480D-8318-C7CD312806AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop3", "Oop3\Oop3.csproj", "{39DAF876-B44F-480D-8318-C7CD312806AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{6930F9F8-DBFD-40D7-B392-11D5E0E7EF44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{39DAF876-B44F-480D-8318-C7CD312806AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39DAF876-B44F-480D-8318-C7CD312806AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39DAF876-B44F-480D-8318-C7CD312806AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6930F9F8-DBFD-40D7-B392-11D5E0E7EF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6930F9F8-DBFD-40D7-B392-11D5E0E7EF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6930F9F8-DBFD-40D7-B392-11D5E0E7EF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6930F9F8-DBFD-40D7-B392-11D5E0E7EF44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
